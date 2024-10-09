@@ -1,2 +1,2 @@
 # LITA-Project
-Data Analysis Projects documentation
+Data Analysis Project documentation
